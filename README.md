@@ -37,7 +37,9 @@ Git, GitHub, Visual Studio, VS Code, SSMS, Oracle SQL Developer
 ## 📫 Contato
 
 📧 **Email:** [italotech06@gmail.com](mailto:italotech06@gmail.com)
+
 💼 **LinkedIn:** [Italo Coelho](https://www.linkedin.com/in/italo-coelho-a83554163/)
+
 Estou disponível para novas conexões, oportunidades de trabalho e parcerias em projetos. Me mande uma mensagem!
 
 ---
